@@ -24,7 +24,7 @@ function createWindow() {
     },
   });
   
-  mainWindow.setTitle('Zalo');
+  mainWindow.setTitle('BetterZalo');
   mainWindow.setBrowserView(webview);
   webview.setBounds({ x: 0, y: 0, width: mainWindow.getBounds().width, height: mainWindow.getBounds().height });
   webview.webContents.loadURL('https://chat.zalo.me');
