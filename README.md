@@ -1,5 +1,5 @@
 
-# Zalo Lite
+# BetterZalo
 
 Customized version of Zalo (Messaging application created by VNG for Vietnamese people) 
 Made with [Electron.js](https://www.electronjs.org/)
