@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "electron": "^28.1.4",
+    "electron-edge-js": "^28.0.1"
+  },
+  "scripts": {
+    "run": "electron .",
+    "start": "electron ."
+  }  
+}
